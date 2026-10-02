@@ -1,0 +1,17 @@
+div{
+    height: 30px;
+    width: 300px;
+    border: red solid 2px;
+    background-color: black;
+    color: #FFF;
+    padding: 4px;
+    margin: 5px;
+}
+
+.second{
+    color:red;
+}
+
+#third{
+    color:orange;
+}
